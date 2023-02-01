@@ -30,7 +30,7 @@ NIDbird is an app by which you can check the nid card information of Bangladesh.
 - 24/7 service.
 - Completely correct information.
 
-
+## TUTORIAL : [WATCH TUTORIAL](https://fb.watch/iq4F3njAKO/)
 
 ## Screenshots
 
