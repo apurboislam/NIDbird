@@ -1,6 +1,6 @@
 # NIDbird ![Build status](https://img.shields.io/badge/NIDbird-V1.0-2ea44f?style=for-the-badge)
 
-<img src="/.assets/logo.png" align="left"
+<img src="/.assets/logo.jpg" align="left"
 width="200" hspace="10" vspace="10">NIDbird is an app by which you can check the nid card information of Bangladesh.
 
 NIDbird is available on the [NIDbird](https://nid.toxinum.xyz), [GITHUB](https://github.com/Toxinum/NIDbird)</img>
